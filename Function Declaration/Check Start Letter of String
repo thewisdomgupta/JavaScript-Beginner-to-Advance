@@ -1,0 +1,9 @@
+//Program to Print Starting Character of String
+
+function startChar(anyString){
+    return anyString[0];
+}
+ const checkStartChar = startChar("Vivek Kumar Gupta");
+ console.log(checkStartChar);
+
+ // This Code is Contributed by Vivek Kumar Gupta
