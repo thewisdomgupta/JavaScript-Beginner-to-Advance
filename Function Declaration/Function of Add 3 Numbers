@@ -1,0 +1,8 @@
+// Addition of 3 Numbers
+function add3Numbers(num1, num2, num3){
+    return num1+num2+num3;
+}
+
+const sumOf3 = add3Numbers(234,45,67);
+console.log(sumOf3);
+//This Code is Contributed by Vivek Kumar Gupta
