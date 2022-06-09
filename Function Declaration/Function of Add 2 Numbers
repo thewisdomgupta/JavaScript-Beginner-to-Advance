@@ -1,0 +1,9 @@
+// Addition of 2 Numbers
+function addofTwoNum(num1, num2){
+    return num1+num2;
+}
+
+const summation = addofTwoNum(14, 54);
+console.log(summation);
+
+//This Code is Contributed by Vivek Kumar Gupta
