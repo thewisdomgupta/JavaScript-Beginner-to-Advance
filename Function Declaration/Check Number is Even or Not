@@ -1,0 +1,28 @@
+function isEven(number){
+    if(number%2===0){
+        return true;
+    }
+    else{
+        return false;
+    }
+}
+
+const evenChecker = isEven(246);
+console.log(evenChecker);
+//This Code is Contributed by Vivek Kumar Gupta
+
+
+or,
+
+
+
+// Another Approach
+
+
+function isEven(number){
+    return (number % 2 === 0);
+}
+
+const evenChecker = isEven(246);
+console.log(evenChecker);
+//This Code is Contributed by Vivek Kumar Gupta
