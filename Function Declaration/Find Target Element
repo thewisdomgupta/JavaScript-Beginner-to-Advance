@@ -1,0 +1,18 @@
+//Program to find Target number in Array
+
+
+function targetFinder(array, target){
+    for(let i=0; i<array.length; i++){
+        if(array[i]===target){
+            return i;
+        }
+    }
+    return -1;
+
+}
+
+const number = [20, 40, 6, 7, 8, 5, 4];
+const returnTarget = targetFinder(number,5);
+console.log(returnTarget);
+
+// This Code is Contributed by Vivek Kumar Gupta
