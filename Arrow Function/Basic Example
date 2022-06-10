@@ -6,10 +6,19 @@ const sumOfTwo = (num1, num2) =>{
 
 const value = sumOfTwo(55, 887);
 console.log(value);
+-----------------------------------------------------------
 
 const isEven = (number) =>{
     return number % 2===0;
 }
+
+console.log(isEven(46));  //Output -> True
+console.log(isEven(45));  //Output -> False
+
+-----------------------------------------------------------
+// Another approach if you have to take only 1 Argument then
+
+const isEven = number => number % 2 === 0;
 
 console.log(isEven(46));  //Output -> True
 console.log(isEven(45));  //Output -> False
