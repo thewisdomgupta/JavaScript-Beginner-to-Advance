@@ -1,0 +1,8 @@
+// Arrow Function
+
+const sumOfTwo = (num1, num2) =>{
+    return num1+ num2;
+}
+
+const value = sumOfTwo(55, 887);
+console.log(value);
