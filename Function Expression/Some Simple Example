@@ -1,0 +1,13 @@
+const singASong = function(){
+    console.log("Happy Birthday");
+}
+
+singASong();  //Calling the Function Expression
+
+const isEven = function(number){
+    return number % 2=== 0;
+}
+const check = isEven(3);
+console.log(check);  //Calling the Function Expression
+
+// This Code is Contributed by Vivek Kumar Gupta
