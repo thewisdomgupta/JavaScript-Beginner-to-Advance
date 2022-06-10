@@ -23,11 +23,16 @@ Let's Deep Dive in the Ocean of Java Script
   </tr>
   <tr>
     <td>4</td>
+    <td>Arrow Function</td>
+    <td>Arrow Function</td>
+  </tr>
+  <tr>
+    <td>5</td>
     <td>Loops</td>
     <td>LOOP</td>
   </tr>
   <tr>
-    <td>5</td>
+    <td>6</td>
     <td>Comparison Operator</td>
     <td>Operators</td>
   </tr>
